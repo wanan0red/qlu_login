@@ -1,6 +1,6 @@
 import requests
 import ddddocr
-username = '20***11' # 学号
+username = '20***' # 学号
 password = "ql***" # 密码
 
 session = requests.Session()
