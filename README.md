@@ -5,3 +5,4 @@
 
 图书馆预约系统只做了登录.
 
+https://github.com/Ymjie/QluBookLib 这里有一个仓库是做了自动预约功能 大家可以去使用这个(洁哥的) 
